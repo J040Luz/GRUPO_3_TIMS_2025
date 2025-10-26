@@ -1,4 +1,4 @@
-# *MINI-SUMÔ_TI*
+# *MINI-SUMÔ_TI_GEAR*
 
 Este é um template para organização de projetos de robôs *MINI-SUMÔ*. Use este template como base para organizar seu projeto. Modifique os README para atender aos requisitos.
 
@@ -8,7 +8,7 @@ Este template fornece uma estrutura organizada para desenvolvimento do robô *(c
 
 ## Organização dos Diretórios
 ```
-CATEGORIA_DO_ROBÔ_ANO/
+MINI-SUMÔ/
 ├── code/                       # Implementação da programação
 │
 ├── docs/                       # Documentação do código
