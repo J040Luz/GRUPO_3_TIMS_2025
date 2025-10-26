@@ -1,14 +1,14 @@
-# *MINI-SUMÔ_TI_GEAR*
+# *MINI-SUMÔ_TI_GEAR-2025*
 
-Este é um template para organização de projetos de robôs *MINI-SUMÔ*. Use este template como base para organizar seu projeto. Modifique os README para atender aos requisitos.
+Este template tem como objetivo organizar os processos de desenvolvimento do robô da categoria mini-sumô, pertencente ao Grupo 3, com a finalidade de competir no Torneio Interno do Grupo de Estudos Aplicados à Robótica-GEAR.
 
 ## Estrutura do Projeto
 
-Este template fornece uma estrutura organizada para desenvolvimento do robô *(categoria do robô)*, com diretorios específicos para cada aspecto do projeto:
+Este template fornece uma estrutura organizada para desenvolvimento do robô da categoria mini-sumô, com diretorios específicos para cada aspecto do projeto:
 
 ## Organização dos Diretórios
 ```
-MINI-SUMÔ/
+MINI-SUMÔ_2025/
 ├── code/                       # Implementação da programação
 │
 ├── docs/                       # Documentação do código
