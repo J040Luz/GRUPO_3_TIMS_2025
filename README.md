@@ -1,6 +1,6 @@
-# *(categoria do robô)*
+# *MINI-SUMÔ_TI*
 
-Este é um template para organização de projetos de robôs *(categoria do robô)*. Use este template como base para organizar seu projeto. Modifique os README para atender aos requisitos.
+Este é um template para organização de projetos de robôs *MINI-SUMÔ*. Use este template como base para organizar seu projeto. Modifique os README para atender aos requisitos.
 
 ## Estrutura do Projeto
 
