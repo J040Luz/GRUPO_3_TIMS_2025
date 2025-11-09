@@ -19,3 +19,4 @@ Os componentes utilizados na elaboração do **Robô Mini Sumô** são os seguin
 
 Inventário Atual:
 Situação em 09/11/2025, temos alguns componentes que ainda não estão com a equipe
+por isso são chamados de COMPONENTES-COMPRAS
