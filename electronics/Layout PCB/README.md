@@ -4,6 +4,8 @@
 
 ![Visualização da PCB](Visualizacao_2D_e_3D_PCB.jpeg)
 
+Visualização do layout da PCB e sua representação em 3D para referência da montagem física.
+
 ---
 ## Descrição
 
@@ -12,6 +14,7 @@ A placa foi projetada para abrigar os principais componentes do sistema, incluin
 
 Embora o layout mostre dimensões aproximadas de 8,1 x 9 cm, a placa será confeccionada de forma manual, utilizando uma placa perfurada de fenolite de 7 x 9 cm.
 A montagem será feita com solda, fios e barramentos, seguindo a disposição ilustrada no layout.
+
 ---
 
 ## Arquivos do Projeto
