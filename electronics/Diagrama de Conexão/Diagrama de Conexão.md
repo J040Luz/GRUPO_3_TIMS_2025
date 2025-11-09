@@ -11,4 +11,4 @@ O **microcontrolador ESP32** é o elemento central da conexão, sendo responsáv
 ---
 ## Visualização
 
-![Diagrama de Conexão do Robô Mini Sumo](Diagrama_de_Conexão.jpeg)
+![Diagrama de Conexão do Robô Mini Sumo](Diagrama de Conexão.jpeg)
