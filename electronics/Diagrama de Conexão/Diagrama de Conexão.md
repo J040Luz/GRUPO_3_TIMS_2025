@@ -9,6 +9,6 @@ O **microcontrolador ESP32** é o elemento central da conexão, sendo responsáv
 - **LEDs e Buzzer:** conectados a portas digitais do microcontrolador, utilizados como indicadores de estado e alertas sonoros;  
 - **Interruptor (Switch):** posicionado entre a bateria e o regulador de tensão, permitindo ligar e desligar o circuito.
 ---
-##Visualização
+## Visualização
 
 ![Diagrama de Conexão do Robô Mini Sumo](Diagrama_de_Conexão.jpeg)
