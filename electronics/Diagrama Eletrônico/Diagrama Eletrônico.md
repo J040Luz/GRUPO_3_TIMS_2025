@@ -4,6 +4,8 @@
 
 ![Visualização Rápida do Diagrama](Diagrama_Eletrônico(Equipe_3).png)
 
+---
+
 ## Descrição Geral
 O robô será controlado pelo **microcontrolador ESP32**, responsável pela conexão com o **controle via Bluetooth** e por todo o gerenciamento do sistema.  
 
