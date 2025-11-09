@@ -1,6 +1,6 @@
 ## Diagrama de Conexão
 ---
-## ⚙️ Detalhes das Ligações
+## Detalhes das Ligações
 O **microcontrolador ESP32** é o elemento central da conexão, sendo responsável por interligar os seguintes módulos e dispositivos:
 
 - **Ponte H (L9110S):** conecta-se às portas digitais da ESP32 responsáveis pelo controle de direção e velocidade dos motores N20;  
@@ -12,3 +12,5 @@ O **microcontrolador ESP32** é o elemento central da conexão, sendo responsáv
 ## Visualização
 
 ![Diagrama de Conexão do Robô Mini Sumo](Diagrama_de_Conexao.jpeg)
+
+---
