@@ -15,5 +15,7 @@ Os componentes utilizados na elaboração do **Robô Mini Sumô** são os seguin
 - Módulo de **Carga de Bateria**
 - Placa de **Fenolite Perfurada Ilhada (7x9cm)**
 
-![Inventário da Equipe 3](../INVENTARIO_EQUIPE3.png)
-Situação atual em 09/11/2025, temos alguns componentes que ainda não estão com a equipe
+![Inventário da Equipe 3](INVENTARIO_EQUIPE3.png)
+
+Inventário Atual:
+Situação em 09/11/2025, temos alguns componentes que ainda não estão com a equipe
