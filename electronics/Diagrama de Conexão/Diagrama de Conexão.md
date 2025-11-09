@@ -10,4 +10,5 @@ O **microcontrolador ESP32** é o elemento central da conexão, sendo responsáv
 - **Interruptor (Switch):** posicionado entre a bateria e o regulador de tensão, permitindo ligar e desligar o circuito.
 ---
 ##Visualização
+
 ![Diagrama de Conexão do Robô Mini Sumo](Diagrama_de_Conexão.jpeg)
