@@ -10,13 +10,13 @@ O circuito conta também com uma **chave alavanca (switch)** para ligar e deslig
 
 ---
 
-## 🔌 Notas Importantes
+## Notas Importantes
 - Não é obrigatório seguir fielmente a pinagem mostrada no diagrama — alterações nos pinos podem ser feitas conforme a necessidade.  
 - A **ponte H L298N** é utilizada apenas **para fins genéricos de diagramação**, sendo que o módulo definitivo será o **L9110S**.
 
 ---
 
-## 💡 Conexões e Controle
+## Conexões e Controle
 As portas do **ESP32** serão responsáveis pelo controle de:
 - **LEDs**, utilizados para indicar o estado do robô (ligado, conectado, etc.);  
 - **Buzzer**, que emitirá respostas sonoras de acordo com as ações do sistema;  
@@ -27,7 +27,7 @@ Ela será alimentada pela **saída OUT+ do regulador de tensão**, ou opcionalme
 
 ---
 
-## ⚙️ Detalhamento das Portas
+## Detalhamento das Portas
 - **L298N (modelo genérico no diagrama):**  
   - 6 portas da ESP32 são utilizadas.  
   - 2 portas controlam a **velocidade (PWM)**.  
@@ -37,4 +37,4 @@ Ela será alimentada pela **saída OUT+ do regulador de tensão**, ou opcionalme
   - Utiliza **4 portas da ESP32**, sendo **2 para PWM**, mesmo que não sejam oficialmente portas PWM.
 
 ---
-
+Observação: Em caso de dúvidas durante a montagem física do circuito, utilize o Diagrama de Conexão como referência principal para o posicionamento e ligação dos componentes.
