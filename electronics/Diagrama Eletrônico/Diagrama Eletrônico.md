@@ -1,6 +1,5 @@
 # Diagrama Eletrônico
 ---
-
 ##Visualização
 
 ![Visualização Rápida do Diagrama](Diagrama_Eletrônico(Equipe_3).png)
