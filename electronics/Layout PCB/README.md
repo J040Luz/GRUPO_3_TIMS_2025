@@ -12,6 +12,7 @@ A placa foi projetada para abrigar os principais componentes do sistema, incluin
 Embora o layout mostre dimensões aproximadas de 8,1 x 9 cm, a placa será confeccionada de forma manual, utilizando uma placa perfurada de fenolite de 7 x 9 cm.
 A montagem será feita com solda, fios e barramentos, seguindo a disposição ilustrada no layout.
 ---
+
 ## Arquivos do Projeto
 
 Mesmo sendo uma fabricação caseira, todos os arquivos da PCB estão disponíveis nesta pasta para referência e possível reprodução futura, incluindo:
