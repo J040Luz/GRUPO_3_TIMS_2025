@@ -2,9 +2,10 @@
 ---
 ## Visualização
 
+![Visualização da PCB](Visualizacao_2D_e_3D.jpeg)
 
 ---
-##Descrição
+## Descrição
 
 O layout apresentado acima representa o design da placa de circuito impresso (PCB) do Robô Mini Sumô.
 A placa foi projetada para abrigar os principais componentes do sistema, incluindo o microcontrolador ESP32, o módulo de ponte H (L9110s), o regulador de tensão Buck, buzzer, LEDs indicadores e o suporte das baterias Li-Ion.
