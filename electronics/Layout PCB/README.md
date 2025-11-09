@@ -2,7 +2,7 @@
 ---
 ## Visualização
 
-![Visualização da PCB](Visualizacao_2D_e_3D.jpeg)
+![Visualização da PCB](Visualizacao_2D_e_3D_PCB.jpeg)
 
 ---
 ## Descrição
