@@ -44,7 +44,7 @@ Inclui imagem e descrição detalhada de cada item empregado no circuito.
 ### [Diagrama Eletrônico](./Diagrama%20Eletr%C3%B4nico)
 Contém o esquema elétrico detalhado do circuito, mostrando as interconexões entre os módulos, sensores e atuadores utilizados no projeto.
 
-![Visualização do Diagrama Eletrônico](Diagrama%20Eletr%C3%B4nico/Diagrama_Eletrônico(Equipe_3).jpeg)
+![Visualização do Diagrama Eletrônico](Diagrama%20Eletr%C3%B4nico/Diagrama_Eletrônico(Equipe_3).png)
 
 ---
 
