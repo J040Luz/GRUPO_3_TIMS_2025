@@ -16,13 +16,13 @@ A estrutura geral é composta por:
 
 ---
 
-## ⚙️ Componentes Eletrônicos
+## Componentes Eletrônicos
 Os principais componentes utilizados na montagem do robô são:
 
 - Microcontrolador **ESP32**  
 - Módulo Ponte H Dupla **L9110S**  
 - **2 Motores N20**  
-- **Regulador de Tensão Buck**  
+- **Regulador de Tensão Buck (LM2596)**  
 - **Buzzer Passivo**  
 - **2 LEDs Indicadores**  
 - **Barramentos e fios de conexão**  
@@ -33,29 +33,39 @@ Os principais componentes utilizados na montagem do robô são:
 
 ---
 
-## 📄 Estrutura da Documentação
+## Estrutura da Documentação
 
-### [Diagrama Eletrônico](./Diagrama_Eletrônico)
-Contém o esquema elétrico detalhado do circuito, mostrando as interconexões entre os módulos, sensores e atuadores utilizados no projeto.
-
-### [Diagrama de Conexão](./Diagrama_de_Conexão)
-Apresenta a disposição prática das ligações entre os componentes.  
-> Caso haja dúvidas na montagem física, recomenda-se utilizar este diagrama como referência principal.
-
-![Visualização do Diagrama de Conexão](Diagrama_de_Conexão/Diagrama_de_conexao.jpeg)
+### [Componentes Eletrônicos](./Componentes%20Eletr%C3%B4nicos)
+Contém o inventário da equipe e a lista dos componentes utilizados na montagem do robô.  
+Inclui imagem e descrição detalhada de cada item empregado no circuito.
 
 ---
 
-### [Layout PCB](./Layout_PCB)
+### [Diagrama Eletrônico](./Diagrama%20Eletr%C3%B4nico)
+Contém o esquema elétrico detalhado do circuito, mostrando as interconexões entre os módulos, sensores e atuadores utilizados no projeto.
+
+![Visualização do Diagrama Eletrônico](Diagrama%20Eletr%C3%B4nico/Diagrama_Eletrônico(Equipe_3).jpeg)
+
+---
+
+### [Diagrama de Conexão](./Diagrama%20de%20Conex%C3%A3o)
+Apresenta a disposição prática das ligações entre os componentes.  
+> Caso haja dúvidas na montagem física, recomenda-se utilizar este diagrama como referência principal.
+
+![Visualização do Diagrama de Conexão](Diagrama%20de%20Conex%C3%A3o/Diagrama_de_conexao.jpeg)
+
+---
+
+### [Layout PCB](./Layout%20PCB)
 Contém os arquivos e visualizações do **layout da placa de circuito impresso** (PCB), incluindo a versão 2D e a renderização 3D da montagem.
 
 > Apesar da fabricação da placa ser **manual**, utilizando **placa perfurada de fenolite**, os arquivos **Gerber**, **SVG** e demais formatos estão anexados para documentação e referência futura.
 
-![Visualização 2D e 3D da PCB](Layout_PCB/Visualizacao_2D_e_3D_PCB.jpeg)
+![Visualização 2D e 3D da PCB](Layout%20PCB/Visualizacao_2D_e_3D_PCB.jpeg)
 
 ---
 
-### 📚 [Datasheet](./Datasheet)
+### [Datasheet](./Datasheet)
 Reúne os **datasheets** dos principais módulos e componentes eletrônicos empregados no projeto, contendo especificações, diagramas e características técnicas.
 
 | Arquivo (Datasheet) | Componente | Tipo/Modelo | Função no Projeto |
@@ -68,7 +78,6 @@ Reúne os **datasheets** dos principais módulos e componentes eletrônicos empr
 ---
 
 ## Conclusão
-
 Esta documentação tem como objetivo centralizar todas as informações referentes à parte eletrônica do Robô Mini Sumô, oferecendo suporte completo à reprodução, manutenção e entendimento do sistema desenvolvido.
 
 ---
