@@ -35,14 +35,14 @@ Os principais componentes utilizados na montagem do robô são:
 
 ## 📄 Estrutura da Documentação
 
-### [Diagrama Eletrônico](./Diagrama_Eletronico)
+### [Diagrama Eletrônico](./Diagrama_Eletrônico)
 Contém o esquema elétrico detalhado do circuito, mostrando as interconexões entre os módulos, sensores e atuadores utilizados no projeto.
 
-### [Diagrama de Conexão](./Diagrama_Conexao)
+### [Diagrama de Conexão](./Diagrama_de_Conexão)
 Apresenta a disposição prática das ligações entre os componentes.  
 > Caso haja dúvidas na montagem física, recomenda-se utilizar este diagrama como referência principal.
 
-![Visualização do Diagrama de Conexão](Diagrama_Conexao/Diagrama_de_conexao.jpeg)
+![Visualização do Diagrama de Conexão](Diagrama_de_Conexão/Diagrama_de_conexao.jpeg)
 
 ---
 
@@ -58,7 +58,12 @@ Contém os arquivos e visualizações do **layout da placa de circuito impresso*
 ### 📚 [Datasheet](./Datasheet)
 Reúne os **datasheets** dos principais módulos e componentes eletrônicos empregados no projeto, contendo especificações, diagramas e características técnicas.
 
-
+| Arquivo (Datasheet) | Componente | Tipo/Modelo | Função no Projeto |
+| :--- | :--- | :--- | :--- |
+| `esp32_datasheet.pdf` | Módulo Principal | ESP32-WROOM | Microcontrolador central com conectividade Wi-Fi e Bluetooth. |
+| `LM2596.PDF` | Regulador de Tensão | LM2596 | Conversor DC-DC Step-Down para alimentar o módulo principal. |
+| `l9110_2_channel_motor_driver.pdf` | Driver de Motor | L9110S | Módulo de acionamento para controle dos motores DC. |
+| `N20-Micro-Speed-Gear-Motor.pdf` | Atuador | Motor N20 | Motor DC com caixa de redução para movimentação. |
 
 ---
 
