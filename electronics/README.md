@@ -1,21 +1,69 @@
 # Diretório de Eletrônica
+---
 
-Este diretório deve conter todos os arquivos relacionados ao projeto eletrônico do robô *(categoria do robô)*, incluindo:
+Este diretório concentra toda a documentação referente à parte **eletrônica** do Robô Mini Sumô, incluindo o **esquema elétrico**, **layout da PCB**, **diagrama de conexão**, **componentes utilizados** e **datasheets** dos módulos empregados no projeto.
 
-- Esquemáticos eletrônicos
-- Layout de PCB
-- Lista de componentes (BOM)
-- Datasheets dos componentes
-- Diagramas de conexão
-- Configurações de hardware
+---
 
-## Estrutura
+## Visão Geral
+O sistema eletrônico foi projetado para controlar o robô de forma eficiente e modular.  
+A estrutura geral é composta por:
+- **ESP32** como unidade principal de controle;
+- **Módulo Ponte H L9110S** para acionamento dos motores N20;
+- **Regulador Buck** para conversão da tensão das baterias;
+- **LEDs e buzzer** para indicação de status e respostas sonoras;
+- **Interruptor principal** para controle de energia do sistema.
 
-- `img/`: Pasta contendo imagens do projeto eletrônico
-  - Fotos das placas
-  - Esquemas de conexão
-  - Diagramas de pinout
+---
 
-## Documentação
+## ⚙️ Componentes Eletrônicos
+Os principais componentes utilizados na montagem do robô são:
 
-Neste README deve conter as instruções de uso, pinos utilizados e explicação do circuito.
+- Microcontrolador **ESP32**  
+- Módulo Ponte H Dupla **L9110S**  
+- **2 Motores N20**  
+- **Regulador de Tensão Buck**  
+- **Buzzer Passivo**  
+- **2 LEDs Indicadores**  
+- **Barramentos e fios de conexão**  
+- **2 Pilhas Li-Ion 3,7V**  
+- **Suporte de Bateria**  
+- **Carregador e módulo de carga de bateria**  
+- **Placa de Fenolite Perfurada Ilhada (7x9cm)**  
+
+---
+
+## 📄 Estrutura da Documentação
+
+### [Diagrama Eletrônico](./Diagrama_Eletronico)
+Contém o esquema elétrico detalhado do circuito, mostrando as interconexões entre os módulos, sensores e atuadores utilizados no projeto.
+
+### [Diagrama de Conexão](./Diagrama_Conexao)
+Apresenta a disposição prática das ligações entre os componentes.  
+> Caso haja dúvidas na montagem física, recomenda-se utilizar este diagrama como referência principal.
+
+![Visualização do Diagrama de Conexão](Diagrama_Conexao/Diagrama_de_conexao.jpeg)
+
+---
+
+### [Layout PCB](./Layout_PCB)
+Contém os arquivos e visualizações do **layout da placa de circuito impresso** (PCB), incluindo a versão 2D e a renderização 3D da montagem.
+
+> Apesar da fabricação da placa ser **manual**, utilizando **placa perfurada de fenolite**, os arquivos **Gerber**, **SVG** e demais formatos estão anexados para documentação e referência futura.
+
+![Visualização 2D e 3D da PCB](Layout_PCB/Visualizacao_2D_e_3D_PCB.jpeg)
+
+---
+
+### 📚 [Datasheet](./Datasheet)
+Reúne os **datasheets** dos principais módulos e componentes eletrônicos empregados no projeto, contendo especificações, diagramas e características técnicas.
+
+
+
+---
+
+## Conclusão
+
+Esta documentação tem como objetivo centralizar todas as informações referentes à parte eletrônica do Robô Mini Sumô, oferecendo suporte completo à reprodução, manutenção e entendimento do sistema desenvolvido.
+
+---
