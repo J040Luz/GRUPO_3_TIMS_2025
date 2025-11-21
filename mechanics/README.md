@@ -13,7 +13,7 @@ Este diretório concentra todos os documentos referentes à parte **mecânica** 
 
 ---
 
-##Visão Geral**
+## Visão Geral
 
 O desenvolvimento do chassi foi concebido para atender às restrições técnicas do campeonato e alinhar-se às estratégias definidas pela equipe. As principais restrições e diretrizes estratégicas consideradas no projeto são:
 
