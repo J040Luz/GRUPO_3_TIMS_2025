@@ -1,13 +1,8 @@
 # Diretório de Mecânica
 
-Este diretório deve conter todos os arquivos relacionados ao projeto mecânico do robô *(categoria do robô)*, incluindo:
+Este diretório concentra todos os documentos referentes à parte **mecânica** do Robô Mini Sumô, incluindo o **modelos 3D** , **desenho técnico** , **instrução de montagem** e **arquivos prontos para impressão 3D** dos chassis que foram elaborados para o torneio interno do **GEAR**.
 
-- Arquivos CAD 3D
-- Desenhos técnicos
-- Arquivos para impressão 3D
-- Listas de materiais
-- Guias de montagem mecânica
-- Especificações de peças
+---
 
 ## Estrutura
 
@@ -16,14 +11,18 @@ Este diretório deve conter todos os arquivos relacionados ao projeto mecânico 
 - `assembly/`: Instruções de montagem
 - `stl_file/`: Arquivos prontos para impressão 3D
 
-## Boas Práticas
+---
 
-1. Mantenha versões dos arquivos CAD organizadas em pastas
-2. Documente todas as dimensões críticas
-3. Inclua instruções de impressão 3D
-4. Mantenha lista de materiais atualizada
-5. Documente modificações e melhorias
+## Visão Geral
 
-## Documentação
+O desenvolvimento do chassi foi concebido para atender às restrições técnicas do campeonato e alinhar-se às estratégias definidas pela equipe. As principais restrições e diretrizes estratégicas consideradas no projeto são:
 
-Neste README deve conter as modelagens feitas, melhorias e modificações de cada versão.
+- **Peso máximo do robô**: 500 g;
+- **Dimensões**: 10 cm x 10 cm, sem limite de altura;
+- **Distribuição dos componentes**: planejada para maximizar a estabilidade do conjunto;
+- **Elevação dos motores**: adotada com o objetivo de posicionar o chassi o mais próximo possível do solo;
+- **Angulação da rampa**: definida entre 30° e 40°.
+
+---
+
+
